@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Blueprints/GM_Gamemode.uasset",
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Inputs/IA_MoveForward.uasset",
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Inputs/IMC_BaseMapping.uasset",
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Blueprints/BP_BaseController.uasset",
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Blueprints/BP_Character.uasset",
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Inputs/IA_Look.uasset",
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Level.umap"
+			]
+		}
+	]
+}
