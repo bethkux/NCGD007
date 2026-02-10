@@ -11,7 +11,19 @@
 				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Blueprints/BP_BaseController.uasset",
 				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Blueprints/BP_Character.uasset",
 				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Inputs/IA_Look.uasset",
-				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Level.umap"
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Level.umap",
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Blueprints/BP_AbilityPickup.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial_Finish.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial_Levitate.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Blueprints/BP_Ability_Levitation.uasset",
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Blueprints/BP_Ability_TimeSlow.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial_TimeSlow.uasset",
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Blueprints/BP_Finish.uasset",
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Blueprints/E_AbilityType.uasset",
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Inputs/IA_ActivateAbility.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/BasicShapes/BasicShapeMaterial_Crusher.uasset",
+				"C:/Users/bethk/Documents/School/S3/UE5/Credit/Content/Blueprints/BP_Crusher.uasset"
 			]
 		}
 	]
